@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Emir. I'm a mathematics student in Bilkent University, Turkey. I'm currently doing a senior project in algebraic topology with the hopes to continue my higher education in pure mathematics.
+I'm Emir. I'm a senior mathematics student in Bilkent University, Turkey. I'm currently doing a senior project in algebraic topology with the hopes to continue my higher education in pure mathematics.
